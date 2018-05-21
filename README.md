@@ -12,6 +12,6 @@ Pointers to code for performing common tasks (also see [TIL](https://github.com/
 * [Map ProSeq reads w/ novoalign](https://github.com/samesense/run-proseq/blob/master/src/rules/sf_novo_test.py)
     * Paired end fqs -> bam file with only read one
 
-* [Plots]
+* Plotting
     * [ggplot2](plots/ggplot2.md)
     * [Seaborn](plots/seaborn.md)
