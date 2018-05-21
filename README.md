@@ -1,5 +1,5 @@
 # how-to
-Pointers to code for performing common tasks
+Pointers to code for performing common tasks (also see [TIL](https://github.com/samesense/TIL/)).
 
 * [Start a new project](https://github.com/samesense/cookiecutter-data-science)
 
