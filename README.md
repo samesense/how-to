@@ -1,6 +1,8 @@
 # how-to
 Pointers to code for performing common tasks
 
+* [Start a new project](https://github.com/samesense/cookiecutter-data-science)
+
 * [Run Snakemake on respublica](https://github.com/samesense/run-proseq/blob/master/src/rules/run_respublica.sh)
     * [Example config file](https://github.com/samesense/run-proseq/blob/master/configs/cluster.yaml)
 
