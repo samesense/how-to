@@ -8,4 +8,4 @@ Pointers to code for performing common tasks
     * Deeptools does not perform base-wise stats. It gives you an average signal over a region, but there seems to be an error. I suspect that it re-normalizes the signal.
     
 * [Map ProSeq reads w/ novoalign](https://github.com/samesense/run-proseq/blob/master/src/rules/sf_novo_test.py)
-    * Fq -> bam file with only read one
+    * Paired end fqs -> bam file with only read one
