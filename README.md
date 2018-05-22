@@ -14,6 +14,8 @@ Pointers to code for performing common tasks (also see [TIL](https://github.com/
     * [Locate transcriptionally active elements w/ dreg-hd](https://github.com/samesense/proseq_pipeline/blob/35a602c099cc105da4bc2b0bb2d0d0a06266c7ef/code/rules/sf_dreg_hd.py)
         * [Requires dreg docker container](https://hub.docker.com/r/samesense/danko_reg/)
 
+* [Vcf annotation](https://github.com/samesense/mahdi_epi/blob/master/src/rules/sf_ann.py) (private repo)
+
 * Plotting
     * [ggplot2](plots/ggplot2.md)
     * [Seaborn](plots/seaborn.md)
