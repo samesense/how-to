@@ -5,7 +5,7 @@ Pointers to code for performing common tasks (also see [TIL](https://github.com/
     * [Start a new project](https://github.com/samesense/cookiecutter-data-science)
     * [Run Snakemake on respublica](https://github.com/samesense/run-proseq/blob/master/src/rules/run_respublica.sh)
         * [Example config file](https://github.com/samesense/run-proseq/blob/master/configs/cluster.yaml)
-        
+    * [Docker w/ conda](https://github.com/samesense/TIL/blob/master/docker/Chop_guide.md)
 * Genomic queries
     * [Look up TSS, exon, intron coords](https://github.com/brentp/cruzdb/)
 
